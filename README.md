@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Starry Night Sky Animation
+
 Hi there! 👋 I'm Didul, a passionate Software Engineer and Web Developer with a knack for building scalable applications and creating seamless user experiences.
 About Me
 
 💼 Professional Background: Experienced in full-stack development, specializing in modern web technologies.
 🌟 Interests: Coding, open-source contributions, AI, and exploring new tech stacks.
 📍 Location: Sri Lanka
-<!--🔗 Website/Portfolio: [Your Portfolio URL]-->
+<!--🔗 Website/Portfolio: [Your Portfolio URL]
 
 Skills
 JavaScript
@@ -31,7 +31,7 @@ Python
 HTML5
 Git
 And more: SQL, Docker, AWS, etc.
-GitHub Stats
+GitHub Stats-->
 <!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=radical)
