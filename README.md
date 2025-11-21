@@ -3,7 +3,7 @@
 <!--
 **Didul03/Didul03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,14 +13,15 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 
 Hi there! 👋 I'm Didul, a passionate Software Engineer and Web Developer with a knack for building scalable applications and creating seamless user experiences.
 About Me
 
--💼 Professional Background: Experienced in full-stack development, specializing in modern web technologies.
--🌟 Interests: Coding, open-source contributions, AI, and exploring new tech stacks.
--📍 Location: Sri Lanka
+- 💼 Professional Background: Experienced in full-stack development, specializing in modern web technologies.
+- 🌟 Interests: Coding, open-source contributions, AI, and exploring new tech stacks.
+- 📍 Location: Sri Lanka
 <!--🔗 Website/Portfolio: [Your Portfolio URL]
 
 Skills
