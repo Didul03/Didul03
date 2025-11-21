@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Hi there! 👋 I'm Didul, a passionate Software Engineer and Web Developer with a knack for building scalable applications and creating seamless user experiences.
 About Me
 
-💼 Professional Background: Experienced in full-stack development, specializing in modern web technologies.
-🌟 Interests: Coding, open-source contributions, AI, and exploring new tech stacks.
-📍 Location: Sri Lanka
+-💼 Professional Background: Experienced in full-stack development, specializing in modern web technologies.
+-🌟 Interests: Coding, open-source contributions, AI, and exploring new tech stacks.
+-📍 Location: Sri Lanka
 <!--🔗 Website/Portfolio: [Your Portfolio URL]
 
 Skills
